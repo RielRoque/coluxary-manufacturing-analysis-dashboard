@@ -28,7 +28,7 @@
 ## 1. Background <a name="background"></a>
 
 <p align="justify">
-Coluxary is a manufacturing facility analyzed as part of the EMERSON x DAPH National Data Challenge. This project explores production inefficiencies, downtime factors, operator behavior, and batch process failures using real operational logs. The findings aim to guide data-informed decisions for improving plant performance.
+Coluxary is a manufacturing company analyzed as part of the EMERSON x DAPH National Data Challenge. This project explores production inefficiencies, downtime factors, operator behavior, and batch process failures using real operational logs. The findings aim to guide data-informed decisions for improving plant performance.
 </p>
 
 ---
