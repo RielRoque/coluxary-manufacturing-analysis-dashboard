@@ -1,7 +1,7 @@
 # Coluxary Manufacturing Analysis
 
 <div align="center">
-  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/dashboard%20riel.png?raw=true" width="100%">
+  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/coluxary%20dashboard.png" width="100%">
 </div>
 
 > Project for the **EMERSON X DAPH National Data Challenge**  
@@ -63,7 +63,7 @@ A total of 38 batches were processed, but only 3 were completed, with 35 experie
 ### 3.2. Impact Of Operator and Machine-Related Downtime On Production Efficiency <a name="Impact-Efficiency"></a>  <a href="#toc">[↑]</a>
 
 <div align="center">
-  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/WHAT%20IS%20THE%20IMPACT%20OF%20OPERATOR%20AND%20MACHINE%20DOWNTIME%20ON%20PRODUCTION%20EFFICIENCY.png?raw=true" width="60%">
+  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/impact%20of%20operator%20and%20machine%20downtime%20on%20production%20efficiency%20chart.png?raw=true" width="60%">
 </div> <br>
 
 - <p align="justify"> Impact Of Operator and Machine-Related Downtime On Production Efficiency:
@@ -73,7 +73,7 @@ Production efficiency is currently at 64%, underscoring a significant performanc
 ### 3.3. Primary Causes of Downtime <a name="Causes-Downtime"></a>  <a href="#toc">[↑]</a>
 
 <div align="center">
-  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/PRIMARY%20CAUSES.png?raw=true" width="60%">
+  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/primary%20causes%20chart.png?raw=true" width="60%">
 </div> <br>
 
 - <p align="justify"> Downtime Causes:
@@ -92,7 +92,7 @@ Production efficiency is currently at 64%, underscoring a significant performanc
 ### 3.5. Peak Downtime Days <a name="DowntimeUptime-Operators"></a>  <a href="#toc">[↑]</a>
 
 <div align="center">
-  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/PEAK%20DOWNTIME%20DAYS.png?raw=true" width="60%">
+  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/uptime%20and%20downtime%20among%20operators%20chart.png?raw=true" width="60%">
 </div> <br>
 
 - <p align="justify"> The chart highlights two distinct peaks in downtime: the highest on September 2nd (503 minutes), and a significant peak on August 30th (444 minutes). Downtime was notably lower on August 29th (244 minutes), reached its lowest point on August 31st (165 minutes), and dropped to very low levels by September 3rd. This indicates a fluctuating pattern with specific days experiencing major operational interruptions.</p>
@@ -100,7 +100,7 @@ Production efficiency is currently at 64%, underscoring a significant performanc
 ### 3.6. Operator Performance <a name="operator-performance"></a>  <a href="#toc">[↑]</a>
 
 <div align="center">
-  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/OPERATOR%20PERFORMANCE%20TABLE.png?raw=true" width="60%">
+  <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/operator%20performance%20table.png?raw=true" width="60%">
 </div> <br>
 
 - <p align="justify">Charlie leads in efficiency at 66.84%, the highest among all operators, with the lowest inefficiency rate of 33.16%. He completed 1 batch despite experiencing 10 disruptions. In contrast, Mac is the least efficient at 60.94%, with the highest inefficiency rate of 39.06%, also completing 1 batch but with fewer disruptions (7). Dennis, although he completed no batch, maintains a 63.17% efficiency, affected by 8 disruptions. Dee falls in the middle with a 64.08% efficiency, completing 1 batch and encountering 10 disruptions. The overall team efficiency stands at 64.02%.</p>
