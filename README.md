@@ -106,7 +106,7 @@ Production efficiency is currently at 64%, underscoring a significant performanc
 - <p align="justify">Charlie leads in efficiency at 66.84%, the highest among all operators, with the lowest inefficiency rate of 33.16%. He completed 1 batch despite experiencing 10 disruptions. In contrast, Mac is the least efficient at 60.94%, with the highest inefficiency rate of 39.06%, also completing 1 batch but with fewer disruptions (7). Dennis, although he completed no batch, maintains a 63.17% efficiency, affected by 8 disruptions. Dee falls in the middle with a 64.08% efficiency, completing 1 batch and encountering 10 disruptions. The overall team efficiency stands at 64.02%.</p>
 
 
-## 7. Recommendations<a name="recommendations"></a>
+## 4. Recommendations<a name="recommendations"></a>
 
 - <p align="justify">Reduce Downtime at Source
 Prioritize top 3 causes: Machine Adjustment, Failure, Inventory Shortage. Standardize setup, strengthen preventive maintenance, and ensure stock readiness.</p>
@@ -130,7 +130,7 @@ Set short-term goals (e.g., 70% efficiency in 2 weeks). Use weekly reviews and o
 </p>
 
 
-## 8. Key Takeaways <a name="key-takeaways"></a>
+## 5. Key Takeaways <a name="key-takeaways"></a>
 
 - <p align="justify">Underperformance Causes
 Production is underperforming due to mechanical inefficiencies, batch execution problems, and uneven operator performance.
