@@ -1,5 +1,7 @@
 # Coluxary Manufacturing Analysis
 
+![Project Banner](https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/coluxary%20dashboard.png.png)
+
 <div align="center">
   <img src="https://github.com/RielRoque/coluxary-manufacturing-analysis-dashboard/blob/main/coluxary%20dashboard.png" width="100%">
 </div>
